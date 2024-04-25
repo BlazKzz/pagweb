@@ -1,0 +1,57 @@
+.navbar-custom {
+    background-color: royalblue;
+}
+.card{
+    margin-right: 30px;
+    margin-left: 120px;
+}
+.item-1{
+    font-family: "Agency FB";
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.item-2 {
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(134, 25, 224, 0.9);
+    border-radius: 10px;
+}
+.contenedor {
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor h2 {
+    text-align: center;
+    color: black;
+}
+
+.pasos {
+    list-style-type: none;
+    padding: 0;
+}
+
+.pasos li {
+    margin-bottom: 10px;
+}
+
+.pasos li:before {
+    content: "•";
+    color: red;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+
+
+
