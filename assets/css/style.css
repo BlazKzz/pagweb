@@ -1,10 +1,15 @@
+/* Logo */
 .navbar-custom {
     background-color: royalblue;
 }
+/* Fin logo */
+/* Margenes */
 .card{
     margin-right: 30px;
     margin-left: 120px;
 }
+/*  Fin Margenes */
+/* Titulos de las recetas*/
 .item-1{
     font-family: "Agency FB";
     color: red;
@@ -14,12 +19,16 @@
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
+/* Fin titulos de las recetas*/
+/* Margen, borde y sombreado de la imagen de referencia de las recetas*/
 .item-2 {
     margin: 0 auto;
     box-shadow: 0 0 10px rgba(134, 25, 224, 0.9);
     border-radius: 10px;
 }
-.contenedor {
+/* Fin Margen, borde y sombreado*/
+/* Fuente de las Letras */
+.contenedor{
     border: 2px solid #ccc;
     padding: 20px;
     border-radius: 10px;
@@ -28,12 +37,13 @@
     max-width: 600px;
     font-family: Arial, sans-serif;
 }
-
+/* Fin fuentes */
+/* Título centrado */
 .contenedor h2 {
     text-align: center;
     color: black;
 }
-
+/*  Fin Título centrado */
 .pasos {
     list-style-type: none;
     padding: 0;
@@ -51,7 +61,5 @@
     width: 1em;
     margin-left: -1em;
 }
-
-
 
 
